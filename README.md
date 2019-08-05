@@ -25,3 +25,11 @@ Jedes Spiel wird in dem Datenbankserver mit den folgenden Informationen inserted
 - Liste der Kategorien, Liste der Fragen und ausgewählte Antwort
 
 Von jedem Spieler wird der eindeutige Spielername gespeichert sein.
+
+
+
+## Massdata und Analyse
+
+Durch die Menu kann man auswählen, ob massdata generiert werden soll. Es wird 10.000 Spieler, die jeweils 100 Spiele gespielt haben, generiert.
+Man kann auch alle vorhandene Spiele in dem DB analysieren. Beispielweise könnte Spiele innerhalb einer bestimmten Zeitraum oder Spiele eines bestimmten Spieler ausgegeben werden. 
+
